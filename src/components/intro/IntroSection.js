@@ -10,12 +10,12 @@ const IntroScreen = ({title, id}) => {
           <h1>{title}</h1>
           <div className="intro-text-box">
             <div className="intro-text">
-              <p>I am a Passionate Web Developer by Job.</p>
+              <p>I am a Passionate Web Developer.</p>
             </div>
             <a href="https://drive.google.com/file/d/1h5cUYmYFTTx9Af7nrnNlMdlbSvUc6hsP/view?usp=sharing" rel="noreferrer" target="_blank">Download CV</a>
             <div className="intro-text">
               <p>
-                I lived in Italy, Europe. I have strong passion for building great things.
+                I live in Italy, Europe. I am creative and innovative in Web Development.
               </p>
               <div className="intro-text contact-info-box">
                 <span>+39 377 357 3878</span>
@@ -23,7 +23,7 @@ const IntroScreen = ({title, id}) => {
                 <span>wisdom3510802563@gmail.com</span>
               </div>
               <p>
-                I am willing to learn new technologies to improve my skills as a Great Developer. Apart from programming, I am also a Computer Hardware Engineer with four (4) years worked experience.
+                I am willing to learn new technologies to improve my skills as a Great Developer. Apart from programming, I am also a Computer Hardware Engineer with four (4) years of work experience.
               </p>
             </div>
           </div>
