@@ -66,7 +66,7 @@ const ProjectScreen = ({title, id}) => {
                   This Project was built using React, Node, Express & Mongodb.
                 </p>
                 <div className="project-links-box">
-                  <a href="https://rewire-bank.netlify.app/about_us" rel="noreferrer" target="_blank">
+                  <a href="https://rewire-bank.netlify.app/" rel="noreferrer" target="_blank">
                     View Project
                   </a>
                   <a href="https://github.com/markwisdomreeves/rewire-bank-project" rel="noreferrer" target="_blank">
