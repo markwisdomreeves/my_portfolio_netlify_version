@@ -12,7 +12,8 @@ const IntroScreen = ({title, id}) => {
             <div className="intro-text">
               <p>I am a passionate Web Developer.</p>
             </div>
-            <a href="https://drive.google.com/file/d/1IZbv-AMM2DPuPOOhfP6C2vpsod7swkxc/view?usp=sharing" rel="noreferrer" target="_blank">Download CV</a>
+//             <a href="https://drive.google.com/file/d/1IZbv-AMM2DPuPOOhfP6C2vpsod7swkxc/view?usp=sharing" rel="noreferrer" target="_blank">Download CV</a>
+               <a href="https://drive.google.com/file/d/13VluWJ4qqt3ZeGP2eHn0l8A66AwKlmH1/view?usp=sharing" rel="noreferrer" target="_blank">Download CV</a>
             <div className="intro-text">
               <p>
                 I live in Italy, Europe. I am creative and innovative in Web Development.
