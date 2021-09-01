@@ -12,10 +12,10 @@ const IntroScreen = ({title, id}) => {
             <div className="intro-text">
               <p>I am a passionate Full Stack Web Developer live in Italy, Europe. I am creative and innovative in Web Development.</p>
             </div>
-               <a href="https://drive.google.com/file/d/13VluWJ4qqt3ZeGP2eHn0l8A66AwKlmH1/view?usp=sharing" rel="noreferrer" target="_blank">Download CV</a>
+               <a href="https://drive.google.com/file/d/1kK59p2ks89tNo3jmfEU72Bp5VvsMrk19/view?usp=sharing" rel="noreferrer" target="_blank">Download CV</a>
             <div className="intro-text">
               <p>
-                I am strongly interested in working on Healthcare Projects, E-commerce Projects, Banking Projects, and Real Estate Projects                 but howeover, I am also willing to work on other types projects.
+                I am keenly interested in working on healthcare, e-commerce, banking and real estate projects, but I also love to work on other types of projects.
               </p>
               <div className="intro-text contact-info-box">
                 <span>+39 377 357 3878</span>
