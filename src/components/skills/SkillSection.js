@@ -25,8 +25,6 @@ const SkillScreen = ({title, id}) => {
               <li className="skill">MongoDB</li>
               <li className="skill">NextJS</li>
               <li className="skill">TypeScrpt</li>
-              <li className="skill">Graphql</li>
-              <li className="skill">Apollo Client</li>
               <li className="skill">Webpack</li>
               <li className="skill">Npm</li>
               <li className="skill">Git</li>
